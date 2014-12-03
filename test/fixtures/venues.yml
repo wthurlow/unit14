@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  venue_ID: 1
+  venue_name: MyString
+  setlist_ID: 
+
+two:
+  venue_ID: 1
+  venue_name: MyString
+  setlist_ID: 

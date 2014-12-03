@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  setlist_ID: 1
+  setlist_date: 2014-12-03 22:44:31
+  venue_ID: 
+  artist_ID: 
+  record_ID: 
+
+two:
+  setlist_ID: 1
+  setlist_date: 2014-12-03 22:44:31
+  venue_ID: 
+  artist_ID: 
+  record_ID: 
